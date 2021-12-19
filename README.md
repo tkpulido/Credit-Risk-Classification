@@ -7,11 +7,11 @@ In order to run this code you will need scikit-learn and imbalanced-learn instal
 ## Installation Guide
 
 ### Installing scikit-learn
-pip install -U scikit-learn
+  pip install -U scikit-learn
 
 ### Installing imbalance-learn
-conda activate dev
-conda install -c conda-forge imbalanced-learn
+  conda activate dev
+  conda install -c conda-forge imbalanced-learn
 
 ### Importing Libraries and Dependencies
 <img width="625" alt="Screen Shot 2021-12-19 at 12 30 20 PM" src="https://user-images.githubusercontent.com/89439442/146689845-a049ab2c-24d6-4861-a8c3-782b7ea18691.png">
